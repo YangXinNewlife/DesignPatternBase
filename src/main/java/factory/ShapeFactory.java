@@ -1,5 +1,9 @@
-package factorypattern;
+package factory;
 
+/**
+ * @author yangxin_ryan
+ * Create ShapeFactory class
+ */
 public class ShapeFactory {
 
     public Shape getShape(String shapeType) {
