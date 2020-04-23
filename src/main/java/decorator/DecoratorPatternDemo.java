@@ -1,5 +1,8 @@
 package decorator;
 
+/**
+ * @author yangxin_ryan
+ */
 public class DecoratorPatternDemo {
 
     public static void main(String[] args) {
